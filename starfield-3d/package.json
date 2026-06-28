@@ -1,0 +1,18 @@
+{
+  "name": "starfield-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Immersive Three.js starfield with a short black intro, gradual reveal, hidden cursor, and mouse-following exploration.",
+  "scripts": {
+    "start": "python -m http.server 8765 --bind 127.0.0.1",
+    "check": "node --check main.js"
+  },
+  "keywords": [
+    "threejs",
+    "webgl",
+    "starfield",
+    "particles",
+    "github-pages"
+  ],
+  "license": "MIT"
+}
